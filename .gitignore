@@ -2,6 +2,7 @@
 logs/
 experiments/replayF2021_experiments/logs/
 experiments/replayF2021_experiments/config_files/*.csv
+testLogs/
 
 /slurm
 slurm*.out
