@@ -20,3 +20,4 @@ venv/
 *.sublime-workspace
 *.DS_Store
 *.out
+sftp-config.json
